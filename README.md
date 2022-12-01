@@ -1,4 +1,5 @@
 
+  (not coding anymore)
   * 🎮 Discord: braresa#2993 (337974942983389196)
   * 📧 Email: lucasgabrielcontatoc@gmail.com
 
