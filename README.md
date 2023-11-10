@@ -1,4 +1,4 @@
-    nerd
+
   * 🎮 Discord: braresa (337974942983389196)
   * 📧 Email: lucasgabrielcontatoc@gmail.com
 
