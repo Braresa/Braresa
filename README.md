@@ -1,5 +1,5 @@
 
-  * 🎮 Discord: braresa (337974942983389196)
+  * 💬 Discord: braresa (337974942983389196)
 
 <!--
 **Braresa/Braresa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
