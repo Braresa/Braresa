@@ -1,6 +1,5 @@
 
   * 🎮 Discord: braresa (337974942983389196)
-  * 📧 Email: lucasgabrielcontatoc@gmail.com
 
 <!--
 **Braresa/Braresa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
